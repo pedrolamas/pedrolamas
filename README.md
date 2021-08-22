@@ -16,5 +16,5 @@
 
 - ⚙️ Programming with .NET, React, TypeScript, ...
 - ⚙️ Docker
-- 🏠 IoT and Home Automation with [Home Assistant](https://www.home-assistant.io)
-- 🖨️ 3D Printing on my Creality Ender 3 V2
+- 🏠 IoT and automation with [Home Assistant](https://www.home-assistant.io) and [Zigbee2MQTT](https://www.zigbee2mqtt.io)
+- 🖨️ 3D Printing on my Creality Ender-3 V2 with [Klipper](https://www.klipper3d.org)
