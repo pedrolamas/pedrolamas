@@ -18,4 +18,4 @@
 - 📦 Docker
 - 🏠 IoT and automation with [Home Assistant](https://www.home-assistant.io), [ESPHome](https://esphome.io), and [Zigbee2MQTT](https://www.zigbee2mqtt.io)
 - ⚡ DIY Electronics
-- 🖨️ 3D Printing on my Creality Ender-3 V2 with [Klipper](https://www.klipper3d.org)
+- 🖨️ 3D Printing on my highly modified Creality Ender-3 V2 with [Klipper](https://www.klipper3d.org) firmware and [Fluidd](https://docs.fluidd.xyz) frontend
