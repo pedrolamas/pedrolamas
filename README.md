@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Follow pedrolamas on GitHub](https://img.shields.io/github/followers/pedrolamas?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/pedrolamas)&nbsp;&nbsp;[![Follow pedrolamas on Twitter](https://img.shields.io/twitter/follow/pedrolamas?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/pedrolamas)&nbsp;&nbsp;[![Follow pedrolamas on Mastodon](https://img.shields.io/mastodon/follow/109365776481898704?label=Follow%20me%20on%20Mastodon&domain=https%3A%2F%2Fhachyderm.io&style=social)](https://hachyderm.io/@pedrolamas)
+[![Follow pedrolamas on GitHub](https://img.shields.io/github/followers/pedrolamas?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/pedrolamas)&nbsp;&nbsp;[![Follow pedrolamas.com on Bluesky](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic.api.bsky.app%2Fxrpc%2Fapp.bsky.actor.getProfile%2F%3Factor%3Dpedrolamas.com&query=%24.followersCount&style=social&logo=bluesky&label=Follow%20me%20on%20Bluesky)](https://bsky.app/profile/pedrolamas.com)&nbsp;&nbsp;[![Follow pedrolamas on Mastodon](https://img.shields.io/mastodon/follow/109365776481898704?label=Follow%20me%20on%20Mastodon&domain=https%3A%2F%2Fhachyderm.io&style=social)](https://hachyderm.io/@pedrolamas)
 
 </div>
 
